@@ -3,14 +3,14 @@ const productos = [
     id: 1,
     nombre: "Pan masa madre",
     precio: 100,
-    Img: "../imagenes/imagenProductos/panmasamadre.png",
+    Img: "imagenes/imagenProductos/panmasamadre.png",
     cantidad: 1,
   },
   {
     id: 2,
     nombre: "Budin integral",
     precio: 200,
-    Img: "../imagenes/imagenProductos/budin.png",
+    Img: "imagenes/imagenProductos/budin.png",
     cantidad: 1,
   },
   {
